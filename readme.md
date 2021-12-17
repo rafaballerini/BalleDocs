@@ -21,7 +21,7 @@ Estou utilizando a versão 16.13.1 do Node.js
 
 ## .ENV
 
-Esse arquivo possui o token, o ID da aplicação e o ID do servidor, pois depende do seu ambiente de desenvolvimento e testes. Não esqueca de configurar esse arquivo para que o código rode corretamente!
+Esse arquivo possui o token, o ID da aplicação e o ID do servidor, pois depende do seu ambiente de desenvolvimento e testes. Não esqueça de configurar esse arquivo para que o código rode corretamente!
 
 ## Rodar código
 
