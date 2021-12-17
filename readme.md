@@ -1,6 +1,6 @@
 # Discord Bot com Discord.js
 
-**Ainda em desenvolvimento**
+**Ainda em desenvolvimento** <br>
 Um bot que ao você mandar uma tecnologia em algum canal da comunidade do Discord, ele responderá com a sua documentação 🤓
 
 ![Exemplo de utilização](https://cdn.discordapp.com/attachments/921446556832530443/921507667472711680/unknown.png)
