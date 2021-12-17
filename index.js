@@ -38,10 +38,7 @@ client.on("messageCreate", (message) => {
     console.log("Started refreshing application (/) commands.");
 
     await rest.put(
-      Routes.applicationGuildCommands(
-        "921428827895398400",
-        "836004917973614662"
-      ),
+      Routes.applicationGuildCommands(process.env.appid, process.env.guildid),
       {
         body: commands,
       }
