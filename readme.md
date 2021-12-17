@@ -17,8 +17,7 @@ Estou utilizando a versão 16.13.1 do Node.js
 2. Clicar em `Applications` e criar uma nova, completando com a imagem, nome, descrição e tags que quiser
 3. Vai na aba de `Bot` e crie um novo, também com a personalização que desejar 
 4. Copie o token do bot e cole no código
-5. Crie as [permissões necessárias](https://discordapi.com/permissions.html) para esse bot interagir no seu servidor (recomendo usar um servidor teste)
-Ele pedirá um ID, que você encontra na primeira página de `Application`
+5. Crie as [permissões necessárias](https://discordapi.com/permissions.html) para esse bot interagir no seu servidor (recomendo usar um servidor teste). Ele pedirá um ID, que você encontra na primeira página de `Application`
 
 ## .ENV
 
