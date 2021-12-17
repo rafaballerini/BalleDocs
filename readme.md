@@ -1,7 +1,13 @@
 # Discord Bot com Discord.js
 
+**Ainda em desenvolvimento**
+Um bot que ao você mandar uma tecnologia em algum canal da comunidade do Discord, ele responderá com a sua documentação 🤓
+
+![Exemplo de utilização](https://cdn.discordapp.com/attachments/921446556832530443/921507667472711680/unknown.png)
+
 ## Configurando o ambiente de desenvolvimento
 
+Estou utilizando a versão 16.13.1 do Node.js
 1. `npm install discord.js`
 2. `npm install discord.js @discordjs/rest discord-api-types`
 
@@ -14,12 +20,18 @@
 5. Crie as [permissões necessárias](https://discordapi.com/permissions.html) para esse bot interagir no seu servidor (recomendo usar um servidor teste)
 Ele pedirá um ID, que você encontra na primeira página de `Application`
 
+## .ENV
+
+Esse arquivo possui o token, o ID da aplicação e o ID do servidor, pois depende do seu ambiente de desenvolvimento e testes. Não esqueca de configurar esse arquivo para que o código rode corretamente!
+
 ## Rodar código
 
-`node --experimental-json-modules index.js`
-`node index.js`
+* `node index.js`
+* Alternativa: `node --experimental-json-modules index.js`
 
 ## Acessos
+
+Para que seja possível criar slash commands e utilizar outras ferramentas, é necessário checar se as seguintes permissões estão liberadas:
 
 ![slash commands pt 1](https://cdn.discordapp.com/attachments/921446556832530443/921471129204424744/unknown.png)
 ![slash commands pt 2](https://cdn.discordapp.com/attachments/921446556832530443/921471338907041792/unknown.png)
