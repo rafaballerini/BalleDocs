@@ -35,3 +35,8 @@ Para que seja possível criar slash commands e utilizar outras ferramentas, é n
 ![slash commands pt 1](https://cdn.discordapp.com/attachments/921446556832530443/921471129204424744/unknown.png)
 ![slash commands pt 2](https://cdn.discordapp.com/attachments/921446556832530443/921471338907041792/unknown.png)
 ![slash commands pt 3](https://cdn.discordapp.com/attachments/921446556832530443/921471610953801798/unknown.png)
+
+## Em desenvolvimento
+
+- Criação de slash commands para as pessoas poderem digitar `/`, selecionar o comando de `docs` e ditigar apenas a linguagem que queiram
+- Criação de um prefixo 
