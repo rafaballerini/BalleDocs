@@ -3,7 +3,9 @@
 **Ainda em desenvolvimento** <br>
 Um bot que ao você mandar uma tecnologia em algum canal da comunidade do Discord, ele responderá com a sua documentação 🤓
 
-![Exemplo de utilização](https://cdn.discordapp.com/attachments/921446556832530443/921507667472711680/unknown.png)
+![Exemplo de utilização](https://cdn.discordapp.com/attachments/916777236483424276/929823075367796856/unknown.png)
+
+
 
 ## Configurando o ambiente de desenvolvimento
 
