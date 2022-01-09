@@ -1,8 +1,4 @@
 {
-  "name": "balledocs",
-  "version": "1.0.0",
-  "description": "**Ainda em desenvolvimento** <br> Um bot que ao você mandar uma tecnologia em algum canal da comunidade do Discord, ele responderá com a sua documentação 🤓",
-  "main": "index.js",
   "dependencies": {
     "abort-controller": "^3.0.0",
     "asynckit": "^0.4.0",
@@ -25,18 +21,5 @@
     "ws": "^8.4.0",
     "zod": "^3.11.6"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Viniciuscgobbi/BalleDocs.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Viniciuscgobbi/BalleDocs/issues"
-  },
-  "homepage": "https://github.com/Viniciuscgobbi/BalleDocs#readme"
+  "type": "module"
 }
